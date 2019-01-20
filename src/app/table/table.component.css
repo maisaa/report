@@ -1,0 +1,21 @@
+:host /deep/ ng2-smart-table thead > tr > th  { 
+    background-color:gray;  
+}
+    
+    :host /deep/ ng2-smart-table tbody > tr > th > a {
+    color: black;
+    }
+    
+    :host /deep/ ng2-smart-table tbody > tr > th > a {
+    color: black;
+    }
+    
+    :host /deep/ a { color: black }
+    :host /deep/ a:link { color:black }
+    :host /deep/ a:hover { color: black }
+    
+    :host /deep/ ng2-smart-table a { color:black; }
+    :host /deep/ ng2-smart-table a:link { color:black }
+    :host /deep/ ng2-smart-table a:hover { color:white }
+    :host /deep/ ng2-smart-table a:focus { color:white  }
+    
